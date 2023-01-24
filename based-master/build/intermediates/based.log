@@ -1,0 +1,21 @@
+﻿  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  Generating Code...
+  globals.cpp
+  hooks.cpp
+C:\Users\Astra\Desktop\based-master\src\core\hooks.cpp(164,70): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Astra\Desktop\based-master\src\core\hooks.cpp(164,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Astra\Desktop\based-master\src\core\hooks.cpp(174,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Astra\Desktop\based-master\src\core\hooks.cpp(174,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Astra\Desktop\based-master\src\core\hooks.cpp(175,85): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Astra\Desktop\based-master\src\core\hooks.cpp(175,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  interfaces.cpp
+  netvars.cpp
+  misc.cpp
+  main.cpp
+  memory.cpp
+  Generating Code...
+  based.vcxproj -> C:\Users\Astra\Desktop\based-master\build\based.dll
